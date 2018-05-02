@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web:700');
+@import url('https://fonts.googleapis.com/css?family=Sarpanch:500');
+body {
+  width: 600px;
+  margin: auto;
+}
+
+h1 {
+  border-bottom: 2px solid black;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.Square {
+  height: 200px;
+  width: 200px;
+  text-align: center;
+  font-size: 70px;
+}
+
+#message {
+  font-family: 'Sarpanch', sans-serif;
+  font-size: 20px;
+}
+
+#restart {
+  font-family: 'Sarpanch', sans-serif;
+  font-size: 14px;
+  text-decoration: none;
+  color: black;
+}
